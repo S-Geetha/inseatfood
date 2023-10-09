@@ -1,0 +1,74 @@
+.image{
+    border-radius: 12px;
+    background: lightgray 50% / cover no-repeat;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.name{
+   color: #EC5569;
+   font-family: Poppins;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   
+}
+
+.forms{
+    text-align: center;
+}
+
+.form-control{
+  width: 342px;
+  height: 48px;
+  border-radius: 12px;
+  border: 1px solid #050505;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.note{
+    color: #000;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.sub{
+    color: #FFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+display: flex;
+padding: 10px 18px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+border-radius: 41px;
+background: #EC5569;
+
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.req{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

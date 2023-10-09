@@ -1,0 +1,90 @@
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.container {
+ max-width: 600px;
+ margin: 0 auto;
+ padding: 20px;
+ box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.forms{
+    text-align: center;
+}
+
+.form-group {
+    color: #000;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+     
+}
+
+.form-control{
+    flex: 1 0 0;
+    color: #000;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+ width: 289px; 
+height: 51px; 
+padding: 15px 40px; 
+align-items: center; 
+gap: 10px; 
+border-radius: 10px; 
+border: 1px solid rgba(0, 0, 0, 0.45);
+text-align: center;
+
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+
+
+.note{
+    color: #000;
+text-align: center;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+color: #000;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.sub{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+display: inline-flex;
+padding: 21px 19px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+border-radius: 12px;
+background: #EC5569;
+}
